@@ -25,11 +25,11 @@ public class exercitiu1Lab2Judete {
         }
         return counties;
     }
-    private static void printJudete(String[] array, Scanner scanner){
+    private static void printJudete(String[] array){
         System.out.println(Arrays.toString(array));
     }
     private static String findCounty(Scanner scanner){
         System.out.println("Enter a county name to find : ");
-        String county =
+        return "au";
     }
 }
